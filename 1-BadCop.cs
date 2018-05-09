@@ -11,7 +11,7 @@ namespace BadCop
             // assume for now the input can be converted to an integer
 
             // fine the user 5 demerits per digit above the speed limit
-            
+
             var limit = 50;
 
             Console.WriteLine("The speed limit is " + limit + "mph");
