@@ -1,6 +1,6 @@
 using System;
 
-namespace Mosh8
+namespace MaxNumber
 {
     class MainClass
     {
