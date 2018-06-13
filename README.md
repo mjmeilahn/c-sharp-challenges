@@ -9,3 +9,5 @@ Keeping a public record of accomplished challenges with the C# language
 3. Max Number - Loops through comma separated numbers and displays the max number.
 
 4. Social Likes - Formats who likes your post on social media.
+
+5. Unique Display - Takes unique integers from input, converted and stored in a List. Infinite loop until user supplies five unique integers.
