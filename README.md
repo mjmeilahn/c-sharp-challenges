@@ -10,4 +10,6 @@ Keeping a public record of accomplished challenges with the C# language
 
 4. Social Likes - Formats who likes your post on social media.
 
-5. Unique Display - Takes unique integers from input, converted and stored in a List. Infinite loop until user supplies five unique integers.
+5. Five Chances for Stardom - User can only supply five strings, converted to integers and stored in a List. The unique integers in the List are displayed back to user.
+
+6. Infinite Chances for Stardom - User can now supply an infinite number of strings, but must type "quit" to close infinite loop. String are then converted to integers and stored in a List. The unique integers in the List are displayed back to user.

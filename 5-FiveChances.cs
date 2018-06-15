@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace UniqueDisplay
+namespace FiveChances
 {
     class MainClass
     {
